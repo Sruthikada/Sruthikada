@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Sruthi Kada
 
-<!--
-**Sruthikada/Sruthikada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate (CGPA: 8.33)
 
-Here are some ideas to get you started:
+💼 Seeking opportunities in Software Development, Python Development, AI/ML and Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Building projects with Python, Flask, Django and Machine Learning
+
+🌱 Currently learning Django, REST APIs, Artificial Intelligence and Cloud Technologies
+
+🤖 Passionate about AI, Machine Learning, Data Analytics and Web Development
+
+💬 Ask me about Python, Flask, Django, AI/ML and GitHub
+
+⚡ Projects: Multi Disease Prediction System, Live Face Feature Measurement System
